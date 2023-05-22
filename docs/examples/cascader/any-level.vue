@@ -23,6 +23,7 @@ const options = [
   {
     value: 'guide',
     label: 'Guide',
+    disabled:true,
     children: [
       {
         value: 'disciplines',
